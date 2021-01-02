@@ -1,3 +1,3 @@
 # Course Demo
 
-This is some descriptive text.
+This is some MORE descriptive text.
